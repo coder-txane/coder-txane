@@ -1,4 +1,4 @@
-# Hey there, I'm Toané👋🏾 A creative developer with a love for design and front-end development.
+# I'm Toané👋🏾 A Creative Developer with a love for design and front-end development.
 
 ## 🌱 **My Journey**
 
